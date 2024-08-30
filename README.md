@@ -5,7 +5,7 @@
 ### 大佬合集
 
 * Zhiyuan Yan（晏志远）| 北京大学 phd | [openreview主页](https://openreview.net/profile?id=~Zhiyuan_Yan3) | [个人主页](https://yzy-stack.github.io/)
-
+* Yong (Norris) Zhang（张勇）| 腾讯 AI Lab Senior Researcher | [个人主页](https://yzhang2016.github.io/)
 
 ### Awesome DeepFake Detection
 
